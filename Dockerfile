@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM apache/tika:4.1.0-full
+FROM apache/tika:4.2.0-1-full
 
 USER root
 # Greek OCR data for images embedded in Office/email documents.
